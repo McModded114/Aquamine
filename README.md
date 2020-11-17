@@ -1,2 +1,2 @@
 # Aquamine
-a game I have been making using the Unity game engine. It will involve exploration and its 2d and I made insane textures that took hours to draw. Also it currently has basically nothing since im still experimenting with 2d terrain
+a game I have been making using the Unity game engine. It will involve exploration and its now 3d and now it has terrain i mean in an unrealesed version. I will upload newest version to github soonn. but first: 1.16 forge mcreator is priority
